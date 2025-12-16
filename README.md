@@ -4,10 +4,8 @@ A simple Discord bot that analyzes IP addresses and displays detailed informatio
 
 ## Features
 - Slash command `/ip-details`
-- IP address validation
 - Country, city, timezone, ISP, and GPS coordinates
 - Google Maps location link
-- Clean and readable Discord embed
 
 ## Requirements
 - Python 3.9+
@@ -31,7 +29,7 @@ TOKEN=your_discord_bot_token_here
 python main.py
 ```
 
-Use the command in Discord:
+## Use the command in Discord:
 ```bash
 /ip-details <ip_address>
 ```
