@@ -2,7 +2,7 @@
 
 A simple Discord bot that analyzes IP addresses and displays detailed information using the **TraceFlow API**.
 
-[Invite the bot](https://top.gg/bot/1377253418183426069) to your server.
+#### [Invite the bot](https://top.gg/bot/1377253418183426069) to your server.
 
 ## Features
 - Slash command `/ip-details`
